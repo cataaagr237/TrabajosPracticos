@@ -1,6 +1,6 @@
 Body{
-background-color:rgb(219, 161, 181);
-color: rgb(148, 104, 177);
+background-color: lab(48.71% 20.25 -44.92);
+color: rgb(30, 30, 87);
 font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -14,18 +14,18 @@ width: 100%;
 
 #parrafo{
 font-size: 100%;
-color: rgb(132, 62, 146);
+color: rgb(8, 20, 44);
 }
 
 button{
-background-color: pink;
+background-color: rgb(47, 44, 124);
 color: black;
 padding: 1%;
 border:none;
 border-radius: 15px;
 }
  button:hover{
-background-color: plum;
+background-color: rgb(65, 45, 156);
 
  }
  
