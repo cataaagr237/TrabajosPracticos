@@ -30,7 +30,7 @@ boton6.onclick = function(){
     parrafo.textContent= " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia aperiam iure facilis, tempore asperiores ea officiis odio quis magni, suscipit assumenda, exercitationem reprehenderit minima similique accusamus cupiditate ipsa? Voluptates, at."
     parrafo. style. fontSize= "100%"
     parrafo.style.color= "black"
-    parrafo.style.backgroundColor= "purple"
+    parrafo.style.backgroundColor= "royalblue"
 parrafo.style.fontFamily= "Arial"
 }
 
