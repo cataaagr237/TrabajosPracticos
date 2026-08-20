@@ -1,0 +1,10 @@
+body{
+   background-color: lightblue; 
+}
+button{
+    background-color: rgb(157, 156, 199);
+    color: black;
+    padding: 1%;
+    border:none;
+    border-radius: 15px;
+    }
